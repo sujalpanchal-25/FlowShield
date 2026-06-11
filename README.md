@@ -207,7 +207,7 @@ SecureFlow is fully responsive and optimized for mobile devices.
 
 | 🏠 Mobile Landing Page | 🚀 Mobile Registration | 🔐 Mobile Login |
 |:---:|:---:|:---:|
-| <img src="public/screenshots/mobile-home.jpg" width="250"> | <img src="public/screenshots/mobile-register.jpg" width="250"> | <img src="public/screenshots/mobile-login.jpg" width="250"> |
+| <img src="public/screenshots/mobile-home.jpeg" width="250"> | <img src="public/screenshots/mobile-register.jpeg" width="250"> | <img src="public/screenshots/mobile-login.jpeg" width="250"> |
 
 ---
 
