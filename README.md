@@ -11,6 +11,24 @@
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Website:** https://flowshield.onrender.com
+
+Experience the live SecureFlow platform with responsive desktop and mobile support.
+
+## 🧪 Demo Account
+
+Want to explore SecureFlow without creating a new account? Use the demo credentials below.
+
+| Role | Email | Password |
+|------|--------|----------|
+| Administrator | `admin234@gmail.com` | `Admin$4545` |
+
+> ⚠️ This demo account is provided for evaluation and testing purposes only.
+
+---
+
 ## 📐 Pipeline Architecture Workflow
 
 ```mermaid
@@ -183,7 +201,18 @@ Experience the premium dark-mode interface, glassmorphism panel styles, and resp
 
 ---
 
+### 📱 Mobile Responsive View
+
+SecureFlow is fully responsive and optimized for mobile devices.
+
+| Mobile Screen | Preview |
+| :--- | :--- |
+| **🏠 Mobile Landing Page** | <img src="public/screenshots/mobile-home.jpg" alt="Mobile Home" width="260px" /> |
+| **🚀 Mobile Registration** | <img src="public/screenshots/mobile-register.jpg" alt="Mobile Register" width="260px" /> |
+| **🔐 Mobile Login** | <img src="public/screenshots/mobile-login.jpg" alt="Mobile Login" width="260px" /> 
 ## 🚀 Getting Started Locally
+
+---
 
 ### 🔧 Installation
 
