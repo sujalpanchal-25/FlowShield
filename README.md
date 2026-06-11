@@ -1,7 +1,7 @@
 # 🔐 SecureFlow — Complete DevSecOps CI/CD Pipeline Dashboard
 
-[![GitHub License](https://img.shields.io/github/license/username/repo?color=blue&style=for-the-badge)](LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/username/repo/secureflow.yml?branch=main&style=for-the-badge&logo=github-actions)](https://github.com/username/repo/actions)
+[![GitHub License](https://img.shields.io/github/license/sujalpanchal-25/FlowShield?color=blue&style=for-the-badge)](LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/sujalpanchal-25/FlowShield/secureflow.yml?branch=main&style=for-the-badge&logo=github-actions)](https://github.com/username/repo/actions)
 [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-5-purple?style=for-the-badge&logo=vite)](https://vitejs.dev)
