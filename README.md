@@ -205,14 +205,13 @@ Experience the premium dark-mode interface, glassmorphism panel styles, and resp
 
 SecureFlow is fully responsive and optimized for mobile devices.
 
-| Mobile Screen | Preview |
-| :--- | :--- |
-| **🏠 Mobile Landing Page** | <img src="public/screenshots/mobile-home.jpeg" alt="Mobile Home" width="260px" /> |
-| **🚀 Mobile Registration** | <img src="public/screenshots/mobile-register.jpeg" alt="Mobile Register" width="260px" /> |
-| **🔐 Mobile Login** | <img src="public/screenshots/mobile-login.jpeg" alt="Mobile Login" width="260px" /> 
-## 🚀 Getting Started Locally
+| 🏠 Mobile Landing Page | 🚀 Mobile Registration | 🔐 Mobile Login |
+|:---:|:---:|:---:|
+| <img src="public/screenshots/mobile-home.jpg" width="250"> | <img src="public/screenshots/mobile-register.jpg" width="250"> | <img src="public/screenshots/mobile-login.jpg" width="250"> |
 
 ---
+
+## 🚀 Getting Started Locally
 
 ### 🔧 Installation
 
