@@ -216,8 +216,8 @@ SecureFlow is fully responsive and optimized for mobile devices.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name/SecureFlow
+   git clone https://github.com/sujalpanchal-25/FlowShield.git
+   cd FlowShield/SecureFlow
    ```
 
 2. **Install Workspace Dependencies**:
