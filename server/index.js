@@ -30,7 +30,7 @@ app.get("/api/health", (req, res) => {
 app.use(express.static(path.join(__dirname, "../dist")));
 
 // Fallback to React index.html for client routing
-app.get("*", (req, res, next) => {
+app.get("*splat", (req, res, next) => {
   if (req.path.startsWith("/api")) {
     return next();
   }
